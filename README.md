@@ -49,4 +49,4 @@
 * Поиск по каталогу, по категориям. 
 * Восстановление пароля.
 
-* ## [Чек-лист](https://docs.google.com/spreadsheets/d/1B0EqWRSgdJeFzc8Xc3wj1MV7kCKRQLvVrznHa-VUDfQ/edit?usp=sharing)
+ ## [Чек-лист](https://docs.google.com/spreadsheets/d/1B0EqWRSgdJeFzc8Xc3wj1MV7kCKRQLvVrznHa-VUDfQ/edit?usp=sharing)
