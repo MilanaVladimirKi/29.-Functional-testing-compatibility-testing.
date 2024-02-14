@@ -51,3 +51,17 @@
 ## [Тест-план](https://docs.google.com/document/d/1scd7xrSIvfJJO76sskfHUFr0_qwUzZ_zIFzaeo2MyqA/edit?usp=sharing)
  ## [Чек-лист](https://docs.google.com/spreadsheets/d/1B0EqWRSgdJeFzc8Xc3wj1MV7kCKRQLvVrznHa-VUDfQ/edit?usp=sharing)
  ## [Тест-кейс](https://docs.google.com/spreadsheets/d/1iGFhtd1HNaOcBJV_Z5u1ov4ofGdB-PS3Axw5fzdrj_M/edit?usp=sharing)
+
+ ## Отчет о тестировании сайта : https://www.yves-rocher.ru/ 
+### В соответствии с требованиями выполнено:
+
+Функциональное тестирование разделов: навигация по сайту, регистрация и авторизация на сайте, корзина сайта. Выполнено тестирование совместимости.
+Оформление документации: требования, тест-план, чек-лист, тест-кейс, баг-репорт.
+Проведено ручное тестирование на браузерах: Yandex, Chrome.
+
+### Результат:
+Обнаружено 5 багов: 4 значительных и 1 незначительный. 
+
+### Вывод:
+Критичные баги отсутствуют, интернет магазин рекомендован к запуску.
+
