@@ -50,3 +50,4 @@
 * Восстановление пароля.
 
  ## [Чек-лист](https://docs.google.com/spreadsheets/d/1B0EqWRSgdJeFzc8Xc3wj1MV7kCKRQLvVrznHa-VUDfQ/edit?usp=sharing)
+ ## [Тест-кейс](https://docs.google.com/spreadsheets/d/1iGFhtd1HNaOcBJV_Z5u1ov4ofGdB-PS3Axw5fzdrj_M/edit?usp=sharing)
