@@ -51,6 +51,7 @@
 ## [Тест-план](https://docs.google.com/document/d/1scd7xrSIvfJJO76sskfHUFr0_qwUzZ_zIFzaeo2MyqA/edit?usp=sharing)
  ## [Чек-лист](https://docs.google.com/spreadsheets/d/1B0EqWRSgdJeFzc8Xc3wj1MV7kCKRQLvVrznHa-VUDfQ/edit?usp=sharing)
  ## [Тест-кейс](https://docs.google.com/spreadsheets/d/1iGFhtd1HNaOcBJV_Z5u1ov4ofGdB-PS3Axw5fzdrj_M/edit?usp=sharing)
+ ## [Баг-репорт](https://docs.google.com/spreadsheets/d/1SbPt_GXVbjBVwIc_KcG_H_6t_pXvhPr18IsMbI7kEz0/edit?usp=sharing)
 
  ## Отчет о тестировании сайта : https://www.yves-rocher.ru/ 
 ### В соответствии с требованиями выполнено:
